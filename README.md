@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sujay-2001
-- 👀 I’m interested in web design, development, UI/UX design, frontends, machine learning and AI.
-- 🌱 I’m currently learning HTML,CSS, JS, Python, C++.
-- 💞️ I’m looking to collaborate on web design, dev, UI/UX design projects.
+- 👀 I’m an aspiring Data Scientist, Data Analyst.
 - 📫 How to reach me: Mail me sujaysundar29@gmail.com
 
 <!---
