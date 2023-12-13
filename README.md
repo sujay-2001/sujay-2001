@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sujay-2001
-- 👀 I’m an aspiring Data Scientist, Data Analyst.
+- 👀 I’m an aspiring Data Scientist.
 - 📫 How to reach me: Mail me sujaysundar29@gmail.com
 
 <!---
